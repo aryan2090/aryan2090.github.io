@@ -1,8 +1,8 @@
 {
-  "name": "vivek9patel-portfolio",
+  "name": "aryan2090-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vivek9patel.github.io/",
+  "homepage": "https://aryan2090.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
