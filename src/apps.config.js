@@ -1,4 +1,3 @@
-import displayTodoist from './components/apps/todoist';
 import displaySpotify from './components/apps/spotify';
 import displayVsCode from './components/apps/vscode';
 import { displayTerminal } from './components/apps/terminal';
@@ -17,15 +16,6 @@ const apps = [
         favourite: true,
         desktop_shortcut: true,
         screen: displayChrome,
-    },
-    {
-        id: "todo-ist",
-        title: "Todoist",
-        icon: './themes/Yaru/apps/todoist.png',
-        disabled: false,
-        favourite: true,
-        desktop_shortcut: false,
-        screen: displayTodoist,
     },
     {
         id: "about-aryan",
