@@ -175,7 +175,7 @@ function Skills() {
                     I've worked with a wide variety of programming languages & frameworks.
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
-                    <div> My areas of expertise are <strong className="text-ubt-gedit-orange">front-end development, React.js & javascript!</strong></div>
+                    <div> My areas of expertise are <strong className="text-ubt-gedit-orange">Tensorflow for ML, Web Dev</strong></div>
                 </li>
                 <li className=" list-arrow text-sm md:text-base mt-4 leading-tight tracking-tight">
                     <div>Here are my most frequently used</div>
@@ -201,11 +201,9 @@ function Skills() {
                 <div className="px-2 flex flex-wrap items-start w-1/2">
                     <div className="flex flex-wrap justify-center items-start w-full mt-2">
                         <img className=" m-1" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff" alt="aryan react" />
-                        <img className="m-1" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="aryan flutter" />
                         <img className="m-1" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="aryan tailwind css" />
                         <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff" alt="aryan node.js" className="m-1" />
                         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="aryan jquery" className="m-1" />
-                        <img className="m-1" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="aryan redux" />
                     </div>
                 </div>
             </div>
