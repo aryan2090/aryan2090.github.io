@@ -186,22 +186,32 @@ function Skills() {
                 <div className=" text-sm text-center md:text-base w-1/2 font-bold">Frameworks & Libraries</div>
             </div>
             <div className="w-full md:w-10/12 flex justify-center items-start font-bold text-center">
-                <div className="px-2 w-1/2">
+            <div className="px-2 w-1/2">
                     <div className="flex flex-wrap justify-center items-start w-full mt-2">
-                        <img className="m-1" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="aryan javascript" />
-                        <img className="m-1" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="aryan c++" />
-                        <img className="m-1" src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff" alt="aryan python" />
-                        <a href="https://www.google.com/search?q=is+html+a+language%3F" target="_blank" rel="noreferrer">
-                        <img title="yes it's a language!" className="m-1" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff" alt="aryan HTML" /></a>
-                        <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff" alt="aryan git" className="m-1" />
+                        <img className="m-1" src="https://img.shields.io/badge/-JavaScript-%F7DF1E?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="Atharva javascript" />
+                        <img className="m-1" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="Atharva c++" />
+                        <img className="m-1" src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff" alt="Atharva python" />
+                        <img className="m-1" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Atharva Java" />
+                        <a href="https://www.google.com/search?q=is+html+a+language%3F" target="_blank" rel="noreferrer"><img title="yes it's a language!" className="m-1" src="https://img.shields.io/badge/-HTML5-%E34F26?style=flat&logo=html5&logoColor=ffffff" alt="Atharva HTML" /></a>
+                        <img src="https://img.shields.io/badge/-GoogleCloudPlatform-FF1493?style=flat&logo=google-cloud&logoColor=ffffff" alt="Atharva GCP Cloud" className="m-1" />
+                        <img className="m-1" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=000000" alt="Atharva C" />
+                        <img src="https://img.shields.io/badge/-AmazonWebServices-232F3E?style=flat&logo=amazon-aws&logoColor=ffffff" alt="Atharva AWS" className="m-1" />
+                        <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=ffffff" alt="Atharva NPM" className="m-1" />
+                        <img src="https://img.shields.io/badge/-CSS3-572B6?style=flat&logo=Css3&logoColor=ffffff" alt="Atharva CSS3" className="m-1" />
                     </div>
                 </div>
                 <div className="px-2 flex flex-wrap items-start w-1/2">
                     <div className="flex flex-wrap justify-center items-start w-full mt-2">
-                        <img className=" m-1" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff" alt="aryan react" />
-                        <img className="m-1" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="aryan tailwind css" />
-                        <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff" alt="aryan node.js" className="m-1" />
-                        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="aryan jquery" className="m-1" />
+                        <img className=" m-1" src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=ffffff" alt="Atharva Scikit- Learn" />
+                        <img className="m-1" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongoDB&logoColor=ffffff" alt="Atharva MongoDB" />
+                        <img className="m-1" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Atharva tailwind css" />
+                        <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff" alt="Atharva node.js" className="m-1" />
+                        <img src="https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularJS&logoColor=ffffff" alt="Atharva Angular.js" className="m-1" />
+                        <img className="m-1" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="Atharva react.js" />
+                        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=ffffff" alt="Atharva Pandas" className="m-1" />
+                        <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=ffffff" alt="Atharva Tensorflow" className="m-1" />
+                        <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=ffffff" alt="Atharva Keras" className="m-1" />
+                        <img src="https://img.shields.io/badge/-NumPY-013243?style=flat&logo=Numpy&logoColor=ffffff" alt="Atharva NumPY" className="m-1" />
                     </div>
                 </div>
             </div>
